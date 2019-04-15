@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190415000000 +0100" stop="20190415235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190415000000 -0300" stop="20190415010000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola: Meier Fitness</title>
+    <desc lang="pt">Jessica quer emplacar na carreira de musa fitness. Ela convence Maicol a malhar com ela, Dona Jô a fazer quentinhas com receitas fit e também irá treinar Ferdinando e Terezinha para serem as próximas musas do carnaval(n)</desc>
+    <credits>
+      <director>César Rodrigues</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415010000 -0300" stop="20190415020000 -0300" channel="Multishow">
+    <title lang="pt">TVZ Clássicos</title>
+    <desc lang="pt">Uma hora de clipes clássicos que marcaram diferentes épocas(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415020000 -0300" stop="20190415023000 -0300" channel="Multishow">
+    <title lang="pt">Mágica na Estrada</title>
+    <desc lang="pt">Série de viagem apresentada por um mágico. Cada episódio se passa numa cidade da Europa (Budapeste / Paris / Amsterdam / Barcelona / etc)(n)</desc>
+    <credits>
+      <director>Adam Trent</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415023000 -0300" stop="20190415030000 -0300" channel="Multishow">
+    <title lang="pt">Só Rindo</title>
+    <desc lang="pt">Um animado grupo de idosos, com um grande senso de humor, fazem brincadeiras com jovens(n)</desc>
+    <credits>
+      <director>Matt Holt</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190415030000 -0300" stop="20190415040000 -0300" channel="Multishow">
+    <title lang="pt">Casa das Pegadinhas</title>
+    <desc lang="pt">Reality show que reúne, em uma casa, os maiores pranksters ingleses do youtube. Lá, competirão para descobrir quem é capaz de realizar as maiores pegadinhas e levar o prêmio de 10 mil libras(n)</desc>
+    <credits>
+      <director>Chris Benson</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190415040000 -0300" stop="20190415043000 -0300" channel="Multishow">
+    <title lang="pt">Caronokê</title>
+    <desc lang="pt">O ator Craig Robinson pega pessoas que pedem por um aplicativo de transporte na rua e elas têm de realizar desafios valendo dinheiro envolvendo músicas durante todo o trajeto(n)</desc>
+    <credits>
+      <director>Michael Simon</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415043000 -0300" stop="20190415053000 -0300" channel="Multishow">
+    <title lang="pt">Experimente: Evandro Vedovelli</title>
+    <desc lang="pt">Experimente completa dez anos, a banda Whipallas mostra um novo cenário do rock alternativo brasileiro. Há também uma retrospectiva da passagem do Johnny Hooker pelo programa em 2016(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S10 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415053000 -0300" stop="20190415060000 -0300" channel="Multishow">
+    <title lang="pt">Na Rua Com Billy</title>
+    <desc lang="pt">O comediante Billy Eichner vai à rua com convidados especiais e entrevista pessoas, faz jogos de rua, e muito mais(n)</desc>
+    <credits>
+      <director>Benjamin Salka</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190415060000 -0300" stop="20190415063000 -0300" channel="Multishow">
+    <title lang="pt">Batalha De Pegadinhas</title>
+    <desc lang="pt">Grupo de comediantes nomeados babacas vai às ruas pregar peças em inocentes pedestres. No final, todos fazem a mesma pegadinha valendo uma medalha de ouro e o título de babaca da semana ao vencedor. Apresentação de Tone Bell(n)</desc>
+    <credits>
+      <director>Sean Hogan</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190415063000 -0300" stop="20190415070000 -0300" channel="Multishow">
+    <title lang="pt">Quer Dinheiro</title>
+    <desc lang="pt">Programa de pegadinhas apresentado por Jeff Dye em que pessoas comum nas ruas recebem propostas para ganhar mil dólares em 15 Minutos, superando uma série de etapas(n)</desc>
+    <credits>
+      <director>Casey Mortensen</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415070000 -0300" stop="20190415073000 -0300" channel="Multishow">
+    <title lang="pt">Off No Multishow</title>
+    <desc lang="pt">Programas, documentários e especiais, cujas imagens são retratadas em cenários paradisíacos, com trilhas sonoras inovadoras e personagens que encaram experiências de tirar o fôlego(n)</desc>
+    <credits>
+      <director>Rafael Rodrigues</director>
+      <director>Paulo Barcellos</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415073000 -0300" stop="20190415080000 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+    <desc lang="pt">Tudo sobre o mundo da comunicação: entrevistas com grandes publicitários, pensadores, criativos, os maiores festivais e muito mais(n)</desc>
+    <credits>
+      <director>Emerson Souza</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415080000 -0300" stop="20190415084500 -0300" channel="Multishow">
+    <title lang="pt">Trair e Coçar é Só Começar: O Bilhete</title>
+    <desc lang="pt">Eduardo sonha com uma piscina de feijoada. Olimpia então o convence a jogar no porco. Joel e Zilda também entram no jogo. Ligia está enciumada porque encontrou um bilhete de amor para Cristiano(n)</desc>
+    <credits>
+      <director>Caetano Caruso</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415084500 -0300" stop="20190415093000 -0300" channel="Multishow">
+    <title lang="pt">Vai Fernandinha: Alexandre E Fernando Pires</title>
+    <desc lang="pt">Fernanda entrevista os Irmãos Pires. Eles contam as peripécias que aprontavam quando criança, sobre a veia musical da família, Só Pra Contrariar e muito mais(n)</desc>
+    <credits>
+      <director>Raphael Vieira</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190415093000 -0300" stop="20190415100000 -0300" channel="Multishow">
+    <title lang="pt">Anota Aí: 10 Hotéis Para Viver</title>
+    <desc lang="pt">Titi visita as hospedagens mais charmosas e curiosas da Itália como o hotel Danieli, em Veneza, conhecido por fazer parte dos filmes do espião James Bond(n)</desc>
+    <credits>
+      <director>Raphael Alvarez</director>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415100000 -0300" stop="20190415123000 -0300" channel="Multishow">
+    <title lang="pt">TVZ</title>
+    <desc lang="pt">Quatro horas diárias com os melhores clipes nacionais e internacionais sem apresentador, sem blá blá blá e com legendas em português. As letras originais e traduzidas ficam disponíveis no multishow.com.br(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415123000 -0300" stop="20190415130000 -0300" channel="Multishow">
+    <title lang="pt">Vai Pra Onde?: Bélgica (Bruxelas e Dinant))</title>
+    <desc lang="pt">Continuando o trajeto no país do chocolate, da batata frita e da cerveja, a Bélgica não deixa a desejar. E o Bruno continua essa segunda parte da viagem explorando a gastronomia local(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415130000 -0300" stop="20190415133000 -0300" channel="Multishow">
+    <title lang="pt">Baby e Rose</title>
+    <desc lang="pt">Convidadas a apresentarem um programa de televisão, Baby e Rose ganham uma casa cenográfica onde satirizam o formato de programas de variedades(n)</desc>
+    <credits>
+      <director>Caike Luna</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190415133000 -0300" stop="20190415140000 -0300" channel="Multishow">
+    <title lang="pt">Caronokê</title>
+    <desc lang="pt">O ator Craig Robinson pega pessoas que pedem por um aplicativo de transporte na rua e elas têm de realizar desafios valendo dinheiro envolvendo músicas durante todo o trajeto(n)</desc>
+    <credits>
+      <director>Michael Simon</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415140000 -0300" stop="20190415143000 -0300" channel="Multishow">
+    <title lang="pt">Só Rindo</title>
+    <desc lang="pt">Um animado grupo de idosos, com um grande senso de humor, fazem brincadeiras com jovens(n)</desc>
+    <credits>
+      <director>Matt Holt</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190415143000 -0300" stop="20190415150000 -0300" channel="Multishow">
+    <title lang="pt">Anota Aí: 10 Hotéis Para Viver</title>
+    <desc lang="pt">Titi visita as hospedagens mais charmosas e curiosas da Itália como o hotel Danieli, em Veneza, conhecido por fazer parte dos filmes do espião James Bond(n)</desc>
+    <credits>
+      <director>Raphael Alvarez</director>
+      <director>Guto Barra</director>
+      <director>Tatiana Issa</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415150000 -0300" stop="20190415160000 -0300" channel="Multishow">
+    <title lang="pt">Versões: Maglore Canta Tim Maia</title>
+    <desc lang="pt">2º Temporada do Programa Versões. Artistas são convidados para fazerem suas versões de clássicos da música. Uma banda/ artista é homenageada por episódio(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190415160000 -0300" stop="20190415164500 -0300" channel="Multishow">
+    <title lang="pt">Trair e Coçar é Só Começar: Beijinho Doce 1ª Temp.</title>
+    <desc lang="pt">Olimpia, que está com trabalho dobrado agora que os patrões se separaram, resolve terceirizar o serviço(n)</desc>
+    <credits>
+      <director>Caetano Caruso</director>
+      <actor>Cacau Protásio</actor>
+      <actor>Márcia Cabrita</actor>
+      <actor>Daniele Valente</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415164500 -0300" stop="20190415171500 -0300" channel="Multishow">
+    <title lang="pt">Os Roni: Todo Mundo Aí Dentu</title>
+    <desc lang="pt">OS RONI chegam de surpresa em São Paulo e invadem a rica cobertura da irmã ÇÃOZINHA, deixando MARIO ALBERTO, seu marido, estupefato ao descobrir que eles vieram para morar(n)</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <actor>Whindersson Nunes</actor>
+      <actor>Tirulipa</actor>
+      <actor>Carlinhos Maia</actor>
+      <actor>Oscar Magrini</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415171500 -0300" stop="20190415180000 -0300" channel="Multishow">
+    <title lang="pt">Vai Fernandinha: Alexandre E Fernando Pires</title>
+    <desc lang="pt">Fernanda entrevista os Irmãos Pires. Eles contam as peripécias que aprontavam quando criança, sobre a veia musical da família, Só Pra Contrariar e muito mais(n)</desc>
+    <credits>
+      <director>Raphael Vieira</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190415180000 -0300" stop="20190415190000 -0300" channel="Multishow">
+    <title lang="pt">Lugar Incomum: Israel</title>
+    <desc lang="pt">Didi Wagner chega a Israel e a primeira parada é Tel Aviv. Ela passeia pela orla, anda num tapete mágico, come uma iguaria praiana e ainda vai pra balada com 1ª Miss trans Israel(n)</desc>
+    <credits>
+      <director>Paula Vasconcellos</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S17 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415190000 -0300" stop="20190415211500 -0300" channel="Multishow">
+    <title lang="pt">TVZ Ao Vivo</title>
+    <desc lang="pt">Quatro horas diárias com os melhores clipes nacionais e internacionais sem apresentador, sem blá blá blá e com legendas em português. As letras originais e traduzidas ficam disponíveis no multishow.com.br(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415211500 -0300" stop="20190415220000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola: Dotadão Do Méier</title>
+    <desc lang="pt">A Pensão da Dona Jô, localizada no Méier, é o cenário das histórias. Após se meter em uma falcatrua, o malandro Valdomiro vai morar na pensão, localizada no subúrbio carioca, tentando fugir da Polícia Federal(n)</desc>
+    <credits>
+      <director>César Rodrigues</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415220000 -0300" stop="20190415223000 -0300" channel="Multishow">
+    <title lang="pt">Os Roni: Pai É Quem Cria</title>
+    <desc lang="pt">Os Roni(n)</desc>
+    <credits>
+      <director>Cesar Rodrigues</director>
+      <actor>Whindersson Nunes</actor>
+      <actor>Tirulipa</actor>
+      <actor>Carlinhos Maia</actor>
+      <actor>Oscar Magrini</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190415223000 -0300" stop="20190415231500 -0300" channel="Multishow">
+    <title lang="pt">Vai Fernandinha</title>
+    <desc lang="pt">Mistura de Talk Show com reality, o programa predende mostrar os desafios enfrentados pela Fernanda Souza para realizar seu próprio late night, parte da sua rotina - que é de tirar o fôlego, além das entrevistas com as maiores cel(n)</desc>
+    <credits>
+      <director>Raphael Vieira</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190415231500 -0300" stop="20190415234500 -0300" channel="Multishow">
+    <title lang="pt">Chaves: Balões</title>
+    <desc lang="pt">Quico e Chiquinha disputam para ver quem tem o balão maior, enquanto Chaves tenta estourá-los(n)</desc>
+    <credits>
+      <director>Enrique Segoviano</director>
+    </credits>
+    <date>1972</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415234500 -0300" stop="20190416000000 -0300" channel="Multishow">
+    <title lang="pt">Chapolin: Um Boneco Muito Vivo / A Casa Mal Assombrada</title>
+    <desc lang="pt">Um ventríloquo tenta enganar um empresário teatral, colocando Chespirito para fingir que é o boneco. Chapolin é chamado para ajudar uma moça que está sozinha em uma casa que acredita ser mal assombrada(n)</desc>
+    <credits>
+      <director>Enrique Segoviano</director>
+    </credits>
+    <date>1973</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
